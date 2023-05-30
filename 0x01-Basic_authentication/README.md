@@ -1,4 +1,4 @@
-# The  Simple API
+#Project on Simple API
 
 Simple HTTP API for playing with `User` model.
 
